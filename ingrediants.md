@@ -1,0 +1,1 @@
+Requirements: apron, oven, grinder, cheese, tomatoes,eggs, italitan spices/stuff etc.
